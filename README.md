@@ -15,6 +15,8 @@ The repository consists of the following five assignments:
 3. *Assignment 3*
    - This folder contains the solution for Assignment 3.
    - Detailed information about the assignment can be found within the folder.
+
+
 Each assignment folder includes the necessary files and documentation required to understand and reproduce the solutions. Please refer to the respective folders for further details on each assignment.
 
 ## Usage
@@ -25,3 +27,7 @@ To use the solutions provided in this repository, follow these steps:
 2. Navigate to the desired assignment folder (`AssignmentX`).
 3. Read the assignment details and requirements provided within the folder.
 4. Access the solution files and any accompanying documentation or reports.
+
+---
+
+Thank you for visiting this repository! If you have any further inquiries, please don't hesitate to reach out.
